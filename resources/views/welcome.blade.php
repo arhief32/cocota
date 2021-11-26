@@ -218,8 +218,8 @@
 	<link rel='stylesheet' id='bridge-core-dashboard-style-css'
 		href='wp-content/plugins/bridge-core/modules/core-dashboard/assets/css/core-dashboard.min.css%3Fver=5.8.2.css'
 		type='text/css' media='all' />
-	<script type='text/javascript' src='wp-includes/js/jquery/jquery.min.js%3Fver=3.6.0' id='jquery-core-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js%3Fver=3.3.2'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/jquery.min.js%3Fver=3.6.0' id='jquery-core-js'></script>
+	<script type='text/javascript' src='public/wp-includes/js/jquery/jquery-migrate.min.js%3Fver=3.3.2'
 		id='jquery-migrate-js'></script>
 	<script type='text/javascript' id='layerslider-utils-js-extra'>
 		/* <![CDATA[ */
@@ -227,17 +227,17 @@
 /* ]]> */
 	</script>
 	<script type='text/javascript'
-		src='wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js%3Fver=6.11.8'
+		src='public/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js%3Fver=6.11.8'
 		id='layerslider-utils-js'></script>
 	<script type='text/javascript'
-		src='wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js%3Fver=6.11.8'
+		src='public/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js%3Fver=6.11.8'
 		id='layerslider-js'></script>
 	<script type='text/javascript'
-		src='wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js%3Fver=6.11.8'
+		src='public/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js%3Fver=6.11.8'
 		id='layerslider-transitions-js'></script>
-	<script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/rbtools.min.js%3Fver=6.4.8'
+	<script type='text/javascript' src='public/wp-content/plugins/revslider/public/assets/js/rbtools.min.js%3Fver=6.4.8'
 		id='tp-tools-js'></script>
-	<script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/rs6.min.js%3Fver=6.4.11'
+	<script type='text/javascript' src='public/wp-content/plugins/revslider/public/assets/js/rs6.min.js%3Fver=6.4.11'
 		id='revmin-js'></script>
 
 	<!-- Google Analytics snippet added by Site Kit -->
@@ -256,16 +256,16 @@
 	<meta name="generator"
 		content="Powered by LayerSlider 6.11.8 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
 	<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
-	<link rel="https://api.w.org/" href="wp-json/index.html" />
-	<link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/314" />
+	<link rel="https://api.w.org/" href="public/wp-json/index.html" />
+	<link rel="alternate" type="application/json" href="public/wp-json/wp/v2/pages/314" />
 	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php%3Frsd" />
-	<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
+	<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="public/wp-includes/wlwmanifest.xml" />
 	<meta name="generator" content="WordPress 5.8.2" />
 	<link rel='shortlink' href='index.html' />
 	<link rel="alternate" type="application/json+oembed"
-		href="wp-json/oembed/1.0/embed%3Furl=https:%252F%252Forfalandcoco.com%252F" />
+		href="public/wp-json/oembed/1.0/embed%3Furl=https:%252F%252Forfalandcoco.com%252F" />
 	<link rel="alternate" type="text/xml+oembed"
-		href="wp-json/oembed/1.0/embed%3Furl=https:%252F%252Forfalandcoco.com%252F&amp;format=xml" />
+		href="public/wp-json/oembed/1.0/embed%3Furl=https:%252F%252Forfalandcoco.com%252F&amp;format=xml" />
 	<meta name="generator" content="Site Kit by Google 1.41.0" />
 	<style type="text/css">
 		.recentcomments a {
@@ -277,9 +277,9 @@
 	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
 	<meta name="generator"
 		content="Powered by Slider Revolution 6.4.11 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-	<link rel="icon" href="wp-content/uploads/2021/10/cropped-logo-32x32.png" sizes="32x32" />
-	<link rel="icon" href="wp-content/uploads/2021/10/cropped-logo-192x192.png" sizes="192x192" />
-	<link rel="apple-touch-icon" href="wp-content/uploads/2021/10/cropped-logo-180x180.png" />
+	<link rel="icon" href="public/wp-content/uploads/2021/10/cropped-logo-32x32.png" sizes="32x32" />
+	<link rel="icon" href="public/wp-content/uploads/2021/10/cropped-logo-192x192.png" sizes="192x192" />
+	<link rel="apple-touch-icon" href="public/wp-content/uploads/2021/10/cropped-logo-180x180.png" />
 	<meta name="msapplication-TileImage"
 		content="https://orfalandcoco.com/wp-content/uploads/2021/10/cropped-logo-270x270.png" />
 	<script type="text/javascript">function setREVStartSize(e) {
@@ -538,17 +538,17 @@
 									<div class="q_logo">
 										<a itemprop="url" href="index.html">
 											<img itemprop="image" class="normal"
-												src="wp-content/uploads/2021/10/Untitled-1.png" alt="Logo">
+												src="public/wp-content/uploads/2021/10/Untitled-1.png" alt="Logo">
 											<img itemprop="image" class="light"
-												src="wp-content/uploads/2021/09/Untitled-removebg-preview-1.png"
+												src="public/wp-content/uploads/2021/09/Untitled-removebg-preview-1.png"
 												alt="Logo" />
 											<img itemprop="image" class="dark"
-												src="wp-content/uploads/2021/09/Untitled-removebg-preview-1.png"
+												src="public/wp-content/uploads/2021/09/Untitled-removebg-preview-1.png"
 												alt="Logo" />
 											<img itemprop="image" class="sticky"
-												src="wp-content/uploads/2021/09/putih.png" alt="Logo" />
+												src="public/wp-content/uploads/2021/09/putih.png" alt="Logo" />
 											<img itemprop="image" class="mobile"
-												src="wp-content/uploads/2021/09/Untitled-removebg-preview-1.png"
+												src="public/wp-content/uploads/2021/09/Untitled-removebg-preview-1.png"
 												alt="Logo" />
 										</a>
 									</div>
@@ -743,35 +743,35 @@
 																			data-interval="5" data-flex_fx="fade">
 																			<ul class="slides">
 																				<li><img width="766" height="1024"
-																						src="wp-content/uploads/2021/10/unnamed-file-766x1024.jpg"
+																						src="public/wp-content/uploads/2021/10/unnamed-file-766x1024.jpg"
 																						class="attachment-large" alt=""
 																						loading="lazy"
 																						srcset="wp-content/uploads/2021/10/unnamed-file-766x1024.jpg 766w, wp-content/uploads/2021/10/unnamed-file-224x300.jpg 224w, wp-content/uploads/2021/10/unnamed-file-768x1027.jpg 768w, wp-content/uploads/2021/10/unnamed-file-1149x1536.jpg 1149w, wp-content/uploads/2021/10/unnamed-file-1532x2048.jpg 1532w, wp-content/uploads/2021/10/unnamed-file-700x936.jpg 700w, wp-content/uploads/2021/10/unnamed-file-scaled.jpg 1914w"
 																						sizes="(max-width: 766px) 100vw, 766px" />
 																				</li>
 																				<li><img width="766" height="1024"
-																						src="wp-content/uploads/2021/10/1-766x1024.jpg"
+																						src="public/wp-content/uploads/2021/10/1-766x1024.jpg"
 																						class="attachment-large" alt=""
 																						loading="lazy"
 																						srcset="wp-content/uploads/2021/10/1-766x1024.jpg 766w, wp-content/uploads/2021/10/1-224x300.jpg 224w, wp-content/uploads/2021/10/1-768x1027.jpg 768w, wp-content/uploads/2021/10/1-1149x1536.jpg 1149w, wp-content/uploads/2021/10/1-1532x2048.jpg 1532w, wp-content/uploads/2021/10/1-700x936.jpg 700w, wp-content/uploads/2021/10/1-scaled.jpg 1915w"
 																						sizes="(max-width: 766px) 100vw, 766px" />
 																				</li>
 																				<li><img width="770" height="1024"
-																						src="wp-content/uploads/2021/10/2-770x1024.jpg"
+																						src="public/wp-content/uploads/2021/10/2-770x1024.jpg"
 																						class="attachment-large" alt=""
 																						loading="lazy"
 																						srcset="wp-content/uploads/2021/10/2-770x1024.jpg 770w, wp-content/uploads/2021/10/2-226x300.jpg 226w, wp-content/uploads/2021/10/2-768x1021.jpg 768w, wp-content/uploads/2021/10/2-1156x1536.jpg 1156w, wp-content/uploads/2021/10/2-1541x2048.jpg 1541w, wp-content/uploads/2021/10/2-700x930.jpg 700w, wp-content/uploads/2021/10/2-scaled.jpg 1926w"
 																						sizes="(max-width: 770px) 100vw, 770px" />
 																				</li>
 																				<li><img width="768" height="1024"
-																						src="wp-content/uploads/2021/10/3-768x1024.jpg"
+																						src="public/wp-content/uploads/2021/10/3-768x1024.jpg"
 																						class="attachment-large" alt=""
 																						loading="lazy"
 																						srcset="wp-content/uploads/2021/10/3-768x1025.jpg 768w, wp-content/uploads/2021/10/3-225x300.jpg 225w, wp-content/uploads/2021/10/3-1151x1536.jpg 1151w, wp-content/uploads/2021/10/3-1535x2048.jpg 1535w, wp-content/uploads/2021/10/3-600x800.jpg 600w, wp-content/uploads/2021/10/3-700x934.jpg 700w, wp-content/uploads/2021/10/3-scaled.jpg 1919w"
 																						sizes="(max-width: 768px) 100vw, 768px" />
 																				</li>
 																				<li><img width="767" height="1024"
-																						src="wp-content/uploads/2021/10/4-767x1024.jpg"
+																						src="public/wp-content/uploads/2021/10/4-767x1024.jpg"
 																						class="attachment-large" alt=""
 																						loading="lazy"
 																						srcset="wp-content/uploads/2021/10/4-767x1024.jpg 767w, wp-content/uploads/2021/10/4-225x300.jpg 225w, wp-content/uploads/2021/10/4-768x1025.jpg 768w, wp-content/uploads/2021/10/4-1151x1536.jpg 1151w, wp-content/uploads/2021/10/4-1534x2048.jpg 1534w, wp-content/uploads/2021/10/4-600x800.jpg 600w, wp-content/uploads/2021/10/4-700x934.jpg 700w, wp-content/uploads/2021/10/4-scaled.jpg 1918w"
@@ -813,7 +813,7 @@
 																		<div
 																			class="vc_single_image-wrapper vc_box_rounded  vc_box_border_grey">
 																			<img width="768" height="1024"
-																				src="wp-content/uploads/2021/10/unnamed-file-1-768x1024.jpg"
+																				src="public/wp-content/uploads/2021/10/unnamed-file-1-768x1024.jpg"
 																				class="vc_single_image-img attachment-large"
 																				alt="" loading="lazy"
 																				srcset="wp-content/uploads/2021/10/unnamed-file-1-768x1024.jpg 768w, wp-content/uploads/2021/10/unnamed-file-1-225x300.jpg 225w, wp-content/uploads/2021/10/unnamed-file-1-1152x1536.jpg 1152w, wp-content/uploads/2021/10/unnamed-file-1-1536x2048.jpg 1536w, wp-content/uploads/2021/10/unnamed-file-1-600x800.jpg 600w, wp-content/uploads/2021/10/unnamed-file-1-700x933.jpg 700w, wp-content/uploads/2021/10/unnamed-file-1-scaled.jpg 1920w"
@@ -901,7 +901,7 @@
 																				class='q_icon_with_title small custom_icon_image center '>
 																				<div class="icon_holder " style=" "><img
 																						itemprop="image" style=""
-																						src="wp-content/uploads/2021/09/honest.png"
+																						src="public/wp-content/uploads/2021/09/honest.png"
 																						alt=""></div>
 																				<div class="icon_text_holder" style="">
 																					<div class="icon_text_inner"
@@ -930,7 +930,7 @@
 																				class='q_icon_with_title small custom_icon_image center '>
 																				<div class="icon_holder " style=" "><img
 																						itemprop="image" style=""
-																						src="wp-content/uploads/2021/10/11.png"
+																						src="public/wp-content/uploads/2021/10/11.png"
 																						alt=""></div>
 																				<div class="icon_text_holder" style="">
 																					<div class="icon_text_inner"
@@ -961,7 +961,7 @@
 																				class='q_icon_with_title small custom_icon_image center '>
 																				<div class="icon_holder " style=" "><img
 																						itemprop="image" style=""
-																						src="wp-content/uploads/2021/09/trust.png"
+																						src="public/wp-content/uploads/2021/09/trust.png"
 																						alt=""></div>
 																				<div class="icon_text_holder" style="">
 																					<div class="icon_text_inner"
@@ -989,7 +989,7 @@
 																				class='q_icon_with_title small custom_icon_image center '>
 																				<div class="icon_holder " style=" "><img
 																						itemprop="image" style=""
-																						src="wp-content/uploads/2021/09/efficiency.png"
+																						src="public/wp-content/uploads/2021/09/efficiency.png"
 																						alt=""></div>
 																				<div class="icon_text_holder" style="">
 																					<div class="icon_text_inner"
@@ -1147,7 +1147,7 @@
 																									class="vc_single_image-wrapper   vc_box_border_grey">
 																									<img width="400"
 																										height="400"
-																										src="wp-content/uploads/2021/11/Desiccated-1.png"
+																										src="public/wp-content/uploads/2021/11/Desiccated-1.png"
 																										class="vc_single_image-img attachment-large"
 																										alt=""
 																										loading="lazy"
@@ -1255,7 +1255,7 @@
 																									class="vc_single_image-wrapper   vc_box_border_grey">
 																									<img width="400"
 																										height="400"
-																										src="wp-content/uploads/2021/11/Coconut-Cream-1.png"
+																										src="public/wp-content/uploads/2021/11/Coconut-Cream-1.png"
 																										class="vc_single_image-img attachment-large"
 																										alt=""
 																										loading="lazy"
@@ -1347,7 +1347,7 @@
 																									class="vc_single_image-wrapper   vc_box_border_grey">
 																									<img width="400"
 																										height="400"
-																										src="wp-content/uploads/2021/10/Semi-husked-coconut.png"
+																										src="public/wp-content/uploads/2021/10/Semi-husked-coconut.png"
 																										class="vc_single_image-img attachment-large"
 																										alt=""
 																										loading="lazy"
@@ -1442,7 +1442,7 @@
 																									class="vc_single_image-wrapper   vc_box_border_grey">
 																									<img width="400"
 																										height="400"
-																										src="wp-content/uploads/2021/10/Copra.png"
+																										src="public/wp-content/uploads/2021/10/Copra.png"
 																										class="vc_single_image-img attachment-large"
 																										alt=""
 																										loading="lazy"
@@ -1531,7 +1531,7 @@
 																									class="vc_single_image-wrapper   vc_box_border_grey">
 																									<img width="300"
 																										height="300"
-																										src="wp-content/uploads/2021/10/Cno-300x300.png"
+																										src="public/wp-content/uploads/2021/10/Cno-300x300.png"
 																										class="vc_single_image-img attachment-medium"
 																										alt=""
 																										loading="lazy"
@@ -1631,7 +1631,7 @@
 																									class="vc_single_image-wrapper   vc_box_border_grey">
 																									<img width="400"
 																										height="400"
-																										src="wp-content/uploads/2021/10/RBD-Cno.png"
+																										src="public/wp-content/uploads/2021/10/RBD-Cno.png"
 																										class="vc_single_image-img attachment-large"
 																										alt=""
 																										loading="lazy"
@@ -1736,7 +1736,7 @@
 																									class="vc_single_image-wrapper   vc_box_border_grey">
 																									<img width="400"
 																										height="400"
-																										src="wp-content/uploads/2021/10/Virgin-Coconut-Oil1.png"
+																										src="public/wp-content/uploads/2021/10/Virgin-Coconut-Oil1.png"
 																										class="vc_single_image-img attachment-large"
 																										alt=""
 																										loading="lazy"
@@ -1848,7 +1848,7 @@
 																									class="vc_single_image-wrapper   vc_box_border_grey">
 																									<img width="400"
 																										height="400"
-																										src="wp-content/uploads/2021/10/Coco-Fibre.png"
+																										src="public/wp-content/uploads/2021/10/Coco-Fibre.png"
 																										class="vc_single_image-img attachment-large"
 																										alt=""
 																										loading="lazy"
@@ -1907,7 +1907,7 @@
 																										class="vc_single_image-wrapper vc_box_rounded  vc_box_border_grey">
 																										<img width="769"
 																											height="1024"
-																											src="wp-content/uploads/2021/10/IMG_3033-769x1024.jpg"
+																											src="public/wp-content/uploads/2021/10/IMG_3033-769x1024.jpg"
 																											class="vc_single_image-img attachment-large"
 																											alt=""
 																											loading="lazy"
@@ -2032,7 +2032,7 @@
 																					<div
 																						class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey">
 																						<img width="150" height="150"
-																							src="wp-content/uploads/2021/10/Abdurrahman-shaleh-150x150.png"
+																							src="public/wp-content/uploads/2021/10/Abdurrahman-shaleh-150x150.png"
 																							class="vc_single_image-img attachment-thumbnail"
 																							alt="" loading="lazy" />
 																					</div>
@@ -2095,7 +2095,7 @@
 																					<div
 																						class="vc_single_image-wrapper vc_box_circle  vc_box_border_grey">
 																						<img width="150" height="150"
-																							src="wp-content/uploads/2021/09/Co-Founder1-3-150x150.jpg"
+																							src="public/wp-content/uploads/2021/09/Co-Founder1-3-150x150.jpg"
 																							class="vc_single_image-img attachment-thumbnail"
 																							alt="" loading="lazy" />
 																					</div>
@@ -2202,10 +2202,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/pexels-rachel-claire-6146111-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/pexels-rachel-claire-6146111-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="pexels-rachel-claire-6146111">
-																		<img src="wp-content/uploads/2021/10/pexels-rachel-claire-6146111-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/pexels-rachel-claire-6146111-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2214,10 +2214,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/unnamed-file-3-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/unnamed-file-3-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="">
-																		<img src="wp-content/uploads/2021/10/unnamed-file-3-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/unnamed-file-3-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2226,10 +2226,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/BB0AE40A-FC9B-4CBD-AE80-E667A67100F7-16902-000007CD19732540-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/BB0AE40A-FC9B-4CBD-AE80-E667A67100F7-16902-000007CD19732540-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="">
-																		<img src="wp-content/uploads/2021/10/BB0AE40A-FC9B-4CBD-AE80-E667A67100F7-16902-000007CD19732540-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/BB0AE40A-FC9B-4CBD-AE80-E667A67100F7-16902-000007CD19732540-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2238,10 +2238,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/unnamed-file-2-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/unnamed-file-2-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="Processed with VSCO with al3 preset">
-																		<img src="wp-content/uploads/2021/10/unnamed-file-2-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/unnamed-file-2-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2250,10 +2250,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/unnamed-file-1-scaled.jpeg"
+																		href="public/wp-content/uploads/2021/10/unnamed-file-1-scaled.jpeg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="">
-																		<img src="wp-content/uploads/2021/10/unnamed-file-1-scaled-400x400.jpeg"
+																		<img src="public/wp-content/uploads/2021/10/unnamed-file-1-scaled-400x400.jpeg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2262,10 +2262,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/IMG_2632-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/IMG_2632-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="default Processed with VSCO with a7 preset">
-																		<img src="wp-content/uploads/2021/10/IMG_2632-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/IMG_2632-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2274,10 +2274,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/photog_-wala-K982Z5ieMWA-unsplash-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/photog_-wala-K982Z5ieMWA-unsplash-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="">
-																		<img src="wp-content/uploads/2021/10/photog_-wala-K982Z5ieMWA-unsplash-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/photog_-wala-K982Z5ieMWA-unsplash-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2286,10 +2286,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/2EA67395-9B2D-4F5F-A0D7-633FCB56A262-61352-00002110B3032970-1-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/2EA67395-9B2D-4F5F-A0D7-633FCB56A262-61352-00002110B3032970-1-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="Processed with VSCO with al3 preset">
-																		<img src="wp-content/uploads/2021/10/2EA67395-9B2D-4F5F-A0D7-633FCB56A262-61352-00002110B3032970-1-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/2EA67395-9B2D-4F5F-A0D7-633FCB56A262-61352-00002110B3032970-1-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2298,10 +2298,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/1E6EBA80-1084-40F4-B202-6A15A6762A19-424-00000008545167F3-1-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/1E6EBA80-1084-40F4-B202-6A15A6762A19-424-00000008545167F3-1-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="Processed with VSCO with al3 preset">
-																		<img src="wp-content/uploads/2021/10/1E6EBA80-1084-40F4-B202-6A15A6762A19-424-00000008545167F3-1-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/1E6EBA80-1084-40F4-B202-6A15A6762A19-424-00000008545167F3-1-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2310,10 +2310,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/9FC625A5-37EA-4090-A632-7BEDF09E6481-61352-000021100D06AFFA-1-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/9FC625A5-37EA-4090-A632-7BEDF09E6481-61352-000021100D06AFFA-1-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="Processed with VSCO with al3 preset">
-																		<img src="wp-content/uploads/2021/10/9FC625A5-37EA-4090-A632-7BEDF09E6481-61352-000021100D06AFFA-1-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/9FC625A5-37EA-4090-A632-7BEDF09E6481-61352-000021100D06AFFA-1-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2322,10 +2322,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/16BA21D6-1CBB-4800-8F9A-E2EB547184E9-440-000000099213CF08-1-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/16BA21D6-1CBB-4800-8F9A-E2EB547184E9-440-000000099213CF08-1-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="Processed with VSCO with al3 preset">
-																		<img src="wp-content/uploads/2021/10/16BA21D6-1CBB-4800-8F9A-E2EB547184E9-440-000000099213CF08-1-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/16BA21D6-1CBB-4800-8F9A-E2EB547184E9-440-000000099213CF08-1-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2334,10 +2334,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/41AF6CAC-E17D-41C6-A8BB-3A454F839582-16902-000007CD69F585D4-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/41AF6CAC-E17D-41C6-A8BB-3A454F839582-16902-000007CD69F585D4-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="41AF6CAC-E17D-41C6-A8BB-3A454F839582-16902-000007CD69F585D4">
-																		<img src="wp-content/uploads/2021/10/41AF6CAC-E17D-41C6-A8BB-3A454F839582-16902-000007CD69F585D4-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/41AF6CAC-E17D-41C6-A8BB-3A454F839582-16902-000007CD69F585D4-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2346,10 +2346,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/1909A536-1B37-47D6-8EE4-C40EE5A54CD1-16902-000007CDDACC12A9-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/1909A536-1B37-47D6-8EE4-C40EE5A54CD1-16902-000007CDDACC12A9-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="1909A536-1B37-47D6-8EE4-C40EE5A54CD1-16902-000007CDDACC12A9">
-																		<img src="wp-content/uploads/2021/10/1909A536-1B37-47D6-8EE4-C40EE5A54CD1-16902-000007CDDACC12A9-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/1909A536-1B37-47D6-8EE4-C40EE5A54CD1-16902-000007CDDACC12A9-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2358,10 +2358,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/2852F7D9-FD73-4C07-A144-F89D320CAC13-440-0000000A348FE759-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/2852F7D9-FD73-4C07-A144-F89D320CAC13-440-0000000A348FE759-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="Processed with VSCO with al3 preset">
-																		<img src="wp-content/uploads/2021/10/2852F7D9-FD73-4C07-A144-F89D320CAC13-440-0000000A348FE759-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/2852F7D9-FD73-4C07-A144-F89D320CAC13-440-0000000A348FE759-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2370,10 +2370,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/94476446-1449-4F1F-94E4-CB93D6641FC5-440-0000000A05E03A41-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/94476446-1449-4F1F-94E4-CB93D6641FC5-440-0000000A05E03A41-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="Processed with VSCO with al3 preset">
-																		<img src="wp-content/uploads/2021/10/94476446-1449-4F1F-94E4-CB93D6641FC5-440-0000000A05E03A41-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/94476446-1449-4F1F-94E4-CB93D6641FC5-440-0000000A05E03A41-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2382,10 +2382,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/BBC8FC5C-6141-4684-8EA5-3FFD57F77462-16902-000007CD9322769D-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/BBC8FC5C-6141-4684-8EA5-3FFD57F77462-16902-000007CD9322769D-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="BBC8FC5C-6141-4684-8EA5-3FFD57F77462-16902-000007CD9322769D">
-																		<img src="wp-content/uploads/2021/10/BBC8FC5C-6141-4684-8EA5-3FFD57F77462-16902-000007CD9322769D-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/BBC8FC5C-6141-4684-8EA5-3FFD57F77462-16902-000007CD9322769D-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2394,10 +2394,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/bernard-hermant-RBMaKczTTJE-unsplash-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/bernard-hermant-RBMaKczTTJE-unsplash-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="bernard-hermant-RBMaKczTTJE-unsplash">
-																		<img src="wp-content/uploads/2021/10/bernard-hermant-RBMaKczTTJE-unsplash-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/bernard-hermant-RBMaKczTTJE-unsplash-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2406,10 +2406,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/C435D8C6-0455-48EA-9458-FD2AE802D936-16902-000007CDD26AAE98-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/C435D8C6-0455-48EA-9458-FD2AE802D936-16902-000007CDD26AAE98-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="C435D8C6-0455-48EA-9458-FD2AE802D936-16902-000007CDD26AAE98">
-																		<img src="wp-content/uploads/2021/10/C435D8C6-0455-48EA-9458-FD2AE802D936-16902-000007CDD26AAE98-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/C435D8C6-0455-48EA-9458-FD2AE802D936-16902-000007CDD26AAE98-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2418,10 +2418,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/C8178E1E-FA88-42F2-95F1-C7A21846A7F4-440-00000009380502FA-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/C8178E1E-FA88-42F2-95F1-C7A21846A7F4-440-00000009380502FA-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="Processed with VSCO with al3 preset">
-																		<img src="wp-content/uploads/2021/10/C8178E1E-FA88-42F2-95F1-C7A21846A7F4-440-00000009380502FA-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/C8178E1E-FA88-42F2-95F1-C7A21846A7F4-440-00000009380502FA-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2430,10 +2430,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/CA17EC9F-E310-488C-B689-C11627A46470-16902-000007CD9DB53CC1-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/CA17EC9F-E310-488C-B689-C11627A46470-16902-000007CD9DB53CC1-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="CA17EC9F-E310-488C-B689-C11627A46470-16902-000007CD9DB53CC1">
-																		<img src="wp-content/uploads/2021/10/CA17EC9F-E310-488C-B689-C11627A46470-16902-000007CD9DB53CC1-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/CA17EC9F-E310-488C-B689-C11627A46470-16902-000007CD9DB53CC1-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2442,10 +2442,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/D18A0DF9-B47D-4D38-95B5-95DCC9192B2C-440-000000095287067C-1-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/D18A0DF9-B47D-4D38-95B5-95DCC9192B2C-440-000000095287067C-1-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="Processed with VSCO with al3 preset">
-																		<img src="wp-content/uploads/2021/10/D18A0DF9-B47D-4D38-95B5-95DCC9192B2C-440-000000095287067C-1-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/D18A0DF9-B47D-4D38-95B5-95DCC9192B2C-440-000000095287067C-1-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2454,10 +2454,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/ECFEB34E-ED22-45C7-9C70-6BE7B1067DED-61352-0000211041B56B96-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/ECFEB34E-ED22-45C7-9C70-6BE7B1067DED-61352-0000211041B56B96-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="ECFEB34E-ED22-45C7-9C70-6BE7B1067DED-61352-0000211041B56B96">
-																		<img src="wp-content/uploads/2021/10/ECFEB34E-ED22-45C7-9C70-6BE7B1067DED-61352-0000211041B56B96-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/ECFEB34E-ED22-45C7-9C70-6BE7B1067DED-61352-0000211041B56B96-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2466,10 +2466,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/IMG_2635-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/IMG_2635-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="default Processed with VSCO with a7 preset">
-																		<img src="wp-content/uploads/2021/10/IMG_2635-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/IMG_2635-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2478,10 +2478,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/IMG_2661-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/IMG_2661-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="default Processed with VSCO with a7 preset">
-																		<img src="wp-content/uploads/2021/10/IMG_2661-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/IMG_2661-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2490,10 +2490,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/josh-withers-W-1_B6Whwfw-unsplash-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/josh-withers-W-1_B6Whwfw-unsplash-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="josh-withers-W-1_B6Whwfw-unsplash">
-																		<img src="wp-content/uploads/2021/10/josh-withers-W-1_B6Whwfw-unsplash-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/josh-withers-W-1_B6Whwfw-unsplash-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2502,10 +2502,10 @@
 																<div class="qode-aig-image">
 																	<a itemprop="image"
 																		class="qode-aig-lightbox qode-block-drag-link"
-																		href="wp-content/uploads/2021/10/pexels-cottonbro-5608056-scaled.jpg"
+																		href="public/wp-content/uploads/2021/10/pexels-cottonbro-5608056-scaled.jpg"
 																		data-rel="prettyPhoto[image_gallery_pretty_photo-219]"
 																		title="&#8211;">
-																		<img src="wp-content/uploads/2021/10/pexels-cottonbro-5608056-scaled-400x400.jpg"
+																		<img src="public/wp-content/uploads/2021/10/pexels-cottonbro-5608056-scaled-400x400.jpg"
 																			alt="" width="400" height="400" /> <span
 																			class="aig-gallery-hover">
 																		</span>
@@ -2550,7 +2550,7 @@
 																<div
 																	class="vc_single_image-wrapper   vc_box_border_grey">
 																	<img width="1024" height="139"
-																		src="wp-content/uploads/2021/10/klien-1024x139.png"
+																		src="public/wp-content/uploads/2021/10/klien-1024x139.png"
 																		class="vc_single_image-img attachment-large"
 																		alt="" loading="lazy"
 																		srcset="wp-content/uploads/2021/10/klien-1024x139.png 1024w, wp-content/uploads/2021/10/klien-300x41.png 300w, wp-content/uploads/2021/10/klien-768x104.png 768w, wp-content/uploads/2021/10/klien-700x95.png 700w, wp-content/uploads/2021/10/klien.png 1200w"
@@ -2634,7 +2634,7 @@
 
 														<div class="vc_single_image-wrapper   vc_box_border_grey"><img
 																width="300" height="139"
-																src="wp-content/uploads/2021/10/putihs-300x139.png"
+																src="public/wp-content/uploads/2021/10/putihs-300x139.png"
 																class="vc_single_image-img attachment-medium" alt=""
 																loading="lazy"
 																srcset="wp-content/uploads/2021/10/putihs-300x139.png 300w, wp-content/uploads/2021/10/putihs.png 600w"
@@ -2787,43 +2787,43 @@
 														<a href="index.html#"
 															onclick="doGTranslate('en|ar');return false;" title="Arabic"
 															class="glink nturl notranslate"><img
-																src="wp-content/plugins/gtranslate/flags/24/ar.png"
+																src="public/wp-content/plugins/gtranslate/flags/24/ar.png"
 																height="24" width="24" alt="Arabic" /></a><a
 															href="index.html#"
 															onclick="doGTranslate('en|zh-CN');return false;"
 															title="Chinese (Simplified)"
 															class="glink nturl notranslate"><img
-																src="wp-content/plugins/gtranslate/flags/24/zh-CN.png"
+																src="public/wp-content/plugins/gtranslate/flags/24/zh-CN.png"
 																height="24" width="24"
 																alt="Chinese (Simplified)" /></a><a href="index.html#"
 															onclick="doGTranslate('en|nl');return false;" title="Dutch"
 															class="glink nturl notranslate"><img
-																src="wp-content/plugins/gtranslate/flags/24/nl.png"
+																src="public/wp-content/plugins/gtranslate/flags/24/nl.png"
 																height="24" width="24" alt="Dutch" /></a><a
 															href="index.html#"
 															onclick="doGTranslate('en|en');return false;"
 															title="English" class="glink nturl notranslate"><img
-																src="wp-content/plugins/gtranslate/flags/24/en.png"
+																src="public/wp-content/plugins/gtranslate/flags/24/en.png"
 																height="24" width="24" alt="English" /></a><a
 															href="index.html#"
 															onclick="doGTranslate('en|de');return false;" title="German"
 															class="glink nturl notranslate"><img
-																src="wp-content/plugins/gtranslate/flags/24/de.png"
+																src="public/wp-content/plugins/gtranslate/flags/24/de.png"
 																height="24" width="24" alt="German" /></a><a
 															href="index.html#"
 															onclick="doGTranslate('en|id');return false;"
 															title="Indonesian" class="glink nturl notranslate"><img
-																src="wp-content/plugins/gtranslate/flags/24/id.png"
+																src="public/wp-content/plugins/gtranslate/flags/24/id.png"
 																height="24" width="24" alt="Indonesian" /></a><a
 															href="index.html#"
 															onclick="doGTranslate('en|th');return false;" title="Thai"
 															class="glink nturl notranslate"><img
-																src="wp-content/plugins/gtranslate/flags/24/th.png"
+																src="public/wp-content/plugins/gtranslate/flags/24/th.png"
 																height="24" width="24" alt="Thai" /></a><a
 															href="index.html#"
 															onclick="doGTranslate('en|vi');return false;"
 															title="Vietnamese" class="glink nturl notranslate"><img
-																src="wp-content/plugins/gtranslate/flags/24/vi.png"
+																src="public/wp-content/plugins/gtranslate/flags/24/vi.png"
 																height="24" width="24" alt="Vietnamese" /></a>
 														<style>
 															#goog-gt-tt {
@@ -2857,7 +2857,7 @@
 															function googleTranslateElementInit2() { new google.translate.TranslateElement({ pageLanguage: 'en', autoDisplay: false }, 'google_translate_element2'); }
 														</script>
 														<script
-															src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+															src="public/https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
 
 
 														<script>
@@ -2903,7 +2903,7 @@
 
 													<div class="vc_single_image-wrapper   vc_box_border_grey"><img
 															width="147" height="59"
-															src="wp-content/uploads/2016/07/bridge-logo-footer-image-1.png"
+															src="public/wp-content/uploads/2016/07/bridge-logo-footer-image-1.png"
 															class="vc_single_image-img attachment-full" alt="w"
 															loading="lazy" /></div>
 												</div>
@@ -3010,37 +3010,37 @@
 /* ]]> */
 	</script>
 	<script type='text/javascript'
-		src='wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/js/332.app.js%3Fver=3.5.1'
+		src='public/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/js/332.app.js%3Fver=3.5.1'
 		id='ht_ctc_app_js-js'></script>
-	<script type='text/javascript' src='wp-includes/js/dist/vendor/regenerator-runtime.min.js%3Fver=0.13.7'
+	<script type='text/javascript' src='public/wp-includes/js/dist/vendor/regenerator-runtime.min.js%3Fver=0.13.7'
 		id='regenerator-runtime-js'></script>
-	<script type='text/javascript' src='wp-includes/js/dist/vendor/wp-polyfill.min.js%3Fver=3.15.0'
+	<script type='text/javascript' src='public/wp-includes/js/dist/vendor/wp-polyfill.min.js%3Fver=3.15.0'
 		id='wp-polyfill-js'></script>
 	<script type='text/javascript' id='contact-form-7-js-extra'>
 		/* <![CDATA[ */
 		var wpcf7 = { "api": { "root": "https:\/\/orfalandcoco.com\/wp-json\/", "namespace": "contact-form-7\/v1" } };
 /* ]]> */
 	</script>
-	<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/index.js%3Fver=5.4.2'
+	<script type='text/javascript' src='public/wp-content/plugins/contact-form-7/includes/js/index.js%3Fver=5.4.2'
 		id='contact-form-7-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/core.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/core.min.js%3Fver=1.12.1'
 		id='jquery-ui-core-js'></script>
 	<script type='text/javascript' id='qi-addons-for-elementor-script-js-extra'>
 		/* <![CDATA[ */
 		var qodefQiAddonsGlobal = { "vars": { "adminBarHeight": 0, "iconArrowLeft": "<svg  xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 34.2 32.3\" xml:space=\"preserve\" style=\"stroke-width: 2;\"><line x1=\"0.5\" y1=\"16\" x2=\"33.5\" y2=\"16\"\/><line x1=\"0.3\" y1=\"16.5\" x2=\"16.2\" y2=\"0.7\"\/><line x1=\"0\" y1=\"15.4\" x2=\"16.2\" y2=\"31.6\"\/><\/svg>", "iconArrowRight": "<svg  xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 34.2 32.3\" xml:space=\"preserve\" style=\"stroke-width: 2;\"><line x1=\"0\" y1=\"16\" x2=\"33\" y2=\"16\"\/><line x1=\"17.3\" y1=\"0.7\" x2=\"33.2\" y2=\"16.5\"\/><line x1=\"17.3\" y1=\"31.6\" x2=\"33.5\" y2=\"15.4\"\/><\/svg>", "iconClose": "<svg  xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 9.1 9.1\" xml:space=\"preserve\"><g><path d=\"M8.5,0L9,0.6L5.1,4.5L9,8.5L8.5,9L4.5,5.1L0.6,9L0,8.5L4,4.5L0,0.6L0.6,0L4.5,4L8.5,0z\"\/><\/g><\/svg>" } };
 /* ]]> */
 	</script>
-	<script type='text/javascript' src='wp-content/plugins/qi-addons-for-elementor/assets/js/main.min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/plugins/qi-addons-for-elementor/assets/js/main.min.js%3Fver=5.8.2'
 		id='qi-addons-for-elementor-script-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/accordion.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/accordion.min.js%3Fver=1.12.1'
 		id='jquery-ui-accordion-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/menu.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/menu.min.js%3Fver=1.12.1'
 		id='jquery-ui-menu-js'></script>
-	<script type='text/javascript' src='wp-includes/js/dist/dom-ready.min.js%3Fver=71883072590656bf22c74c7b887df3dd'
+	<script type='text/javascript' src='public/wp-includes/js/dist/dom-ready.min.js%3Fver=71883072590656bf22c74c7b887df3dd'
 		id='wp-dom-ready-js'></script>
-	<script type='text/javascript' src='wp-includes/js/dist/hooks.min.js%3Fver=a7edae857aab69d69fa10d5aef23a5de'
+	<script type='text/javascript' src='public/wp-includes/js/dist/hooks.min.js%3Fver=a7edae857aab69d69fa10d5aef23a5de'
 		id='wp-hooks-js'></script>
-	<script type='text/javascript' src='wp-includes/js/dist/i18n.min.js%3Fver=5f1269854226b4dd90450db411a12b79'
+	<script type='text/javascript' src='public/wp-includes/js/dist/i18n.min.js%3Fver=5f1269854226b4dd90450db411a12b79'
 		id='wp-i18n-js'></script>
 	<script type='text/javascript' id='wp-i18n-js-after'>
 		wp.i18n.setLocaleData({ 'text direction\u0004ltr': ['ltr'] });
@@ -3052,182 +3052,182 @@
 			wp.i18n.setLocaleData(localeData, domain);
 		})("default", { "locale_data": { "messages": { "": {} } } });
 	</script>
-	<script type='text/javascript' src='wp-includes/js/dist/a11y.min.js%3Fver=0ac8327cc1c40dcfdf29716affd7ac63'
+	<script type='text/javascript' src='public/wp-includes/js/dist/a11y.min.js%3Fver=0ac8327cc1c40dcfdf29716affd7ac63'
 		id='wp-a11y-js'></script>
 	<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
 		/* <![CDATA[ */
 		var uiAutocompleteL10n = { "noResults": "No results found.", "oneResult": "1 result found. Use up and down arrow keys to navigate.", "manyResults": "%d results found. Use up and down arrow keys to navigate.", "itemSelected": "Item selected." };
 /* ]]> */
 	</script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/autocomplete.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/autocomplete.min.js%3Fver=1.12.1'
 		id='jquery-ui-autocomplete-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/controlgroup.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/controlgroup.min.js%3Fver=1.12.1'
 		id='jquery-ui-controlgroup-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/checkboxradio.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/checkboxradio.min.js%3Fver=1.12.1'
 		id='jquery-ui-checkboxradio-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/button.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/button.min.js%3Fver=1.12.1'
 		id='jquery-ui-button-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/datepicker.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/datepicker.min.js%3Fver=1.12.1'
 		id='jquery-ui-datepicker-js'></script>
 	<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
 		jQuery(document).ready(function (jQuery) { jQuery.datepicker.setDefaults({ "closeText": "Close", "currentText": "Today", "monthNames": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"], "monthNamesShort": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], "nextText": "Next", "prevText": "Previous", "dayNames": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "dayNamesShort": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"], "dayNamesMin": ["S", "M", "T", "W", "T", "F", "S"], "dateFormat": "MM d, yy", "firstDay": 1, "isRTL": false }); });
 	</script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/mouse.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/mouse.min.js%3Fver=1.12.1'
 		id='jquery-ui-mouse-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/resizable.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/resizable.min.js%3Fver=1.12.1'
 		id='jquery-ui-resizable-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/draggable.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/draggable.min.js%3Fver=1.12.1'
 		id='jquery-ui-draggable-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/dialog.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/dialog.min.js%3Fver=1.12.1'
 		id='jquery-ui-dialog-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/droppable.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/droppable.min.js%3Fver=1.12.1'
 		id='jquery-ui-droppable-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/progressbar.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/progressbar.min.js%3Fver=1.12.1'
 		id='jquery-ui-progressbar-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/selectable.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/selectable.min.js%3Fver=1.12.1'
 		id='jquery-ui-selectable-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/sortable.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/sortable.min.js%3Fver=1.12.1'
 		id='jquery-ui-sortable-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/slider.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/slider.min.js%3Fver=1.12.1'
 		id='jquery-ui-slider-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/spinner.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/spinner.min.js%3Fver=1.12.1'
 		id='jquery-ui-spinner-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/tooltip.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/tooltip.min.js%3Fver=1.12.1'
 		id='jquery-ui-tooltip-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/tabs.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/tabs.min.js%3Fver=1.12.1'
 		id='jquery-ui-tabs-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/effect.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/effect.min.js%3Fver=1.12.1'
 		id='jquery-effects-core-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/effect-blind.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/effect-blind.min.js%3Fver=1.12.1'
 		id='jquery-effects-blind-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/effect-bounce.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/effect-bounce.min.js%3Fver=1.12.1'
 		id='jquery-effects-bounce-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/effect-clip.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/effect-clip.min.js%3Fver=1.12.1'
 		id='jquery-effects-clip-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/effect-drop.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/effect-drop.min.js%3Fver=1.12.1'
 		id='jquery-effects-drop-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/effect-explode.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/effect-explode.min.js%3Fver=1.12.1'
 		id='jquery-effects-explode-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/effect-fade.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/effect-fade.min.js%3Fver=1.12.1'
 		id='jquery-effects-fade-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/effect-fold.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/effect-fold.min.js%3Fver=1.12.1'
 		id='jquery-effects-fold-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/effect-highlight.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/effect-highlight.min.js%3Fver=1.12.1'
 		id='jquery-effects-highlight-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/effect-pulsate.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/effect-pulsate.min.js%3Fver=1.12.1'
 		id='jquery-effects-pulsate-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/effect-size.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/effect-size.min.js%3Fver=1.12.1'
 		id='jquery-effects-size-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/effect-scale.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/effect-scale.min.js%3Fver=1.12.1'
 		id='jquery-effects-scale-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/effect-shake.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/effect-shake.min.js%3Fver=1.12.1'
 		id='jquery-effects-shake-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/effect-slide.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/effect-slide.min.js%3Fver=1.12.1'
 		id='jquery-effects-slide-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/ui/effect-transfer.min.js%3Fver=1.12.1'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/ui/effect-transfer.min.js%3Fver=1.12.1'
 		id='jquery-effects-transfer-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/doubletaptogo.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/doubletaptogo.js%3Fver=5.8.2'
 		id='doubleTapToGo-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/modernizr.min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/modernizr.min.js%3Fver=5.8.2'
 		id='modernizr-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/jquery.appear.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/jquery.appear.js%3Fver=5.8.2'
 		id='appear-js'></script>
-	<script type='text/javascript' src='wp-includes/js/hoverIntent.min.js%3Fver=1.10.1' id='hoverIntent-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/counter.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-includes/js/hoverIntent.min.js%3Fver=1.10.1' id='hoverIntent-js'></script>
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/counter.js%3Fver=5.8.2'
 		id='counter-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/easypiechart.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/easypiechart.js%3Fver=5.8.2'
 		id='easyPieChart-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/mixitup.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/mixitup.js%3Fver=5.8.2'
 		id='mixItUp-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/jquery.prettyPhoto.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/jquery.prettyPhoto.js%3Fver=5.8.2'
 		id='prettyphoto-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/jquery.fitvids.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/jquery.fitvids.js%3Fver=5.8.2'
 		id='fitvids-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/jquery.flexslider-min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/jquery.flexslider-min.js%3Fver=5.8.2'
 		id='flexslider-js'></script>
 	<script type='text/javascript' id='mediaelement-core-js-before'>
 		var mejsL10n = { "language": "en", "strings": { "mejs.download-file": "Download File", "mejs.install-flash": "You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/", "mejs.fullscreen": "Fullscreen", "mejs.play": "Play", "mejs.pause": "Pause", "mejs.time-slider": "Time Slider", "mejs.time-help-text": "Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.", "mejs.live-broadcast": "Live Broadcast", "mejs.volume-help-text": "Use Up\/Down Arrow keys to increase or decrease volume.", "mejs.unmute": "Unmute", "mejs.mute": "Mute", "mejs.volume-slider": "Volume Slider", "mejs.video-player": "Video Player", "mejs.audio-player": "Audio Player", "mejs.captions-subtitles": "Captions\/Subtitles", "mejs.captions-chapters": "Chapters", "mejs.none": "None", "mejs.afrikaans": "Afrikaans", "mejs.albanian": "Albanian", "mejs.arabic": "Arabic", "mejs.belarusian": "Belarusian", "mejs.bulgarian": "Bulgarian", "mejs.catalan": "Catalan", "mejs.chinese": "Chinese", "mejs.chinese-simplified": "Chinese (Simplified)", "mejs.chinese-traditional": "Chinese (Traditional)", "mejs.croatian": "Croatian", "mejs.czech": "Czech", "mejs.danish": "Danish", "mejs.dutch": "Dutch", "mejs.english": "English", "mejs.estonian": "Estonian", "mejs.filipino": "Filipino", "mejs.finnish": "Finnish", "mejs.french": "French", "mejs.galician": "Galician", "mejs.german": "German", "mejs.greek": "Greek", "mejs.haitian-creole": "Haitian Creole", "mejs.hebrew": "Hebrew", "mejs.hindi": "Hindi", "mejs.hungarian": "Hungarian", "mejs.icelandic": "Icelandic", "mejs.indonesian": "Indonesian", "mejs.irish": "Irish", "mejs.italian": "Italian", "mejs.japanese": "Japanese", "mejs.korean": "Korean", "mejs.latvian": "Latvian", "mejs.lithuanian": "Lithuanian", "mejs.macedonian": "Macedonian", "mejs.malay": "Malay", "mejs.maltese": "Maltese", "mejs.norwegian": "Norwegian", "mejs.persian": "Persian", "mejs.polish": "Polish", "mejs.portuguese": "Portuguese", "mejs.romanian": "Romanian", "mejs.russian": "Russian", "mejs.serbian": "Serbian", "mejs.slovak": "Slovak", "mejs.slovenian": "Slovenian", "mejs.spanish": "Spanish", "mejs.swahili": "Swahili", "mejs.swedish": "Swedish", "mejs.tagalog": "Tagalog", "mejs.thai": "Thai", "mejs.turkish": "Turkish", "mejs.ukrainian": "Ukrainian", "mejs.vietnamese": "Vietnamese", "mejs.welsh": "Welsh", "mejs.yiddish": "Yiddish" } };
 	</script>
-	<script type='text/javascript' src='wp-includes/js/mediaelement/mediaelement-and-player.min.js%3Fver=4.2.16'
+	<script type='text/javascript' src='public/wp-includes/js/mediaelement/mediaelement-and-player.min.js%3Fver=4.2.16'
 		id='mediaelement-core-js'></script>
-	<script type='text/javascript' src='wp-includes/js/mediaelement/mediaelement-migrate.min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-includes/js/mediaelement/mediaelement-migrate.min.js%3Fver=5.8.2'
 		id='mediaelement-migrate-js'></script>
 	<script type='text/javascript' id='mediaelement-js-extra'>
 		/* <![CDATA[ */
 		var _wpmejsSettings = { "pluginPath": "\/wp-includes\/js\/mediaelement\/", "classPrefix": "mejs-", "stretching": "responsive" };
 /* ]]> */
 	</script>
-	<script type='text/javascript' src='wp-includes/js/mediaelement/wp-mediaelement.min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-includes/js/mediaelement/wp-mediaelement.min.js%3Fver=5.8.2'
 		id='wp-mediaelement-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/infinitescroll.min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/infinitescroll.min.js%3Fver=5.8.2'
 		id='infiniteScroll-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/jquery.waitforimages.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/jquery.waitforimages.js%3Fver=5.8.2'
 		id='waitforimages-js'></script>
-	<script type='text/javascript' src='wp-includes/js/jquery/jquery.form.min.js%3Fver=4.3.0'
+	<script type='text/javascript' src='public/wp-includes/js/jquery/jquery.form.min.js%3Fver=4.3.0'
 		id='jquery-form-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/waypoints.min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/waypoints.min.js%3Fver=5.8.2'
 		id='waypoints-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/jplayer.min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/jplayer.min.js%3Fver=5.8.2'
 		id='jplayer-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/bootstrap.carousel.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/bootstrap.carousel.js%3Fver=5.8.2'
 		id='bootstrapCarousel-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/skrollr.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/skrollr.js%3Fver=5.8.2'
 		id='skrollr-js'></script>
 	<script type='text/javascript'
-		src='wp-content/plugins/qi-addons-for-elementor/inc/shortcodes/charts/assets/js/plugins/Chart.min.js%3Fver=1'
+		src='public/wp-content/plugins/qi-addons-for-elementor/inc/shortcodes/charts/assets/js/plugins/Chart.min.js%3Fver=1'
 		id='chart-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/jquery.easing.1.3.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/jquery.easing.1.3.js%3Fver=5.8.2'
 		id='easing-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/abstractBaseClass.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/abstractBaseClass.js%3Fver=5.8.2'
 		id='abstractBaseClass-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/jquery.countdown.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/jquery.countdown.js%3Fver=5.8.2'
 		id='countdown-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/jquery.multiscroll.min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/jquery.multiscroll.min.js%3Fver=5.8.2'
 		id='multiscroll-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/jquery.justifiedGallery.min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/jquery.justifiedGallery.min.js%3Fver=5.8.2'
 		id='justifiedGallery-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/bigtext.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/bigtext.js%3Fver=5.8.2'
 		id='bigtext-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/jquery.sticky-kit.min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/jquery.sticky-kit.min.js%3Fver=5.8.2'
 		id='stickyKit-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/owl.carousel.min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/owl.carousel.min.js%3Fver=5.8.2'
 		id='owlCarousel-js'></script>
 	<script type='text/javascript'
-		src='wp-content/plugins/qi-addons-for-elementor/inc/shortcodes/typeout-text/assets/js/plugins/typed.js%3Fver=1'
+		src='public/wp-content/plugins/qi-addons-for-elementor/inc/shortcodes/typeout-text/assets/js/plugins/typed.js%3Fver=1'
 		id='typed-js'></script>
 	<script type='text/javascript'
-		src='wp-content/themes/bridge/js/plugins/jquery.carouFredSel-6.2.1.min.js%3Fver=5.8.2'
+		src='public/wp-content/themes/bridge/js/plugins/jquery.carouFredSel-6.2.1.min.js%3Fver=5.8.2'
 		id='carouFredSel-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/lemmon-slider.min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/lemmon-slider.min.js%3Fver=5.8.2'
 		id='lemmonSlider-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/jquery.fullPage.min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/jquery.fullPage.min.js%3Fver=5.8.2'
 		id='one_page_scroll-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/jquery.mousewheel.min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/jquery.mousewheel.min.js%3Fver=5.8.2'
 		id='mousewheel-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/jquery.touchSwipe.min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/jquery.touchSwipe.min.js%3Fver=5.8.2'
 		id='touchSwipe-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/jquery.isotope.min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/jquery.isotope.min.js%3Fver=5.8.2'
 		id='isotope-js'></script>
 	<script type='text/javascript'
-		src='wp-content/plugins/qi-addons-for-elementor/inc/masonry/assets/js/plugins/packery-mode.pkgd.min.js%3Fver=5.8.2'
+		src='public/wp-content/plugins/qi-addons-for-elementor/inc/masonry/assets/js/plugins/packery-mode.pkgd.min.js%3Fver=5.8.2'
 		id='packery-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/jquery.stretch.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/jquery.stretch.js%3Fver=5.8.2'
 		id='stretch-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/imagesloaded.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/imagesloaded.js%3Fver=5.8.2'
 		id='imagesLoaded-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/rangeslider.min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/rangeslider.min.js%3Fver=5.8.2'
 		id='rangeSlider-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/jquery.event.move.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/jquery.event.move.js%3Fver=5.8.2'
 		id='eventMove-js'></script>
 	<script type='text/javascript'
-		src='wp-content/plugins/qi-addons-for-elementor/inc/shortcodes/before-after/assets/js/plugins/jquery.twentytwenty.js%3Fver=5.8.2'
+		src='public/wp-content/plugins/qi-addons-for-elementor/inc/shortcodes/before-after/assets/js/plugins/jquery.twentytwenty.js%3Fver=5.8.2'
 		id='twentytwenty-js'></script>
-	<script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js%3Fver=5.3.6'
+	<script type='text/javascript' src='public/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js%3Fver=5.3.6'
 		id='swiper-js'></script>
 	<script type='text/javascript'
 		src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAscIIh0gxlhazs0NJnwlFQ2Doh64IgCZk&#038;ver=5.8.2'
 		id='google_map_api-js'></script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/default_dynamic.js%3Fver=1633690459'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/default_dynamic.js%3Fver=1633690459'
 		id='bridge-default-dynamic-js'></script>
 	<script type='text/javascript' id='bridge-default-js-extra'>
 		/* <![CDATA[ */
@@ -3235,22 +3235,22 @@
 		var qodeGlobalVars = { "vars": { "qodeAddingToCartLabel": "Adding to Cart...", "page_scroll_amount_for_sticky": "" } };
 /* ]]> */
 	</script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/default.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/default.js%3Fver=5.8.2'
 		id='bridge-default-js'></script>
-	<script type='text/javascript' src='wp-includes/js/comment-reply.min.js%3Fver=5.8.2' id='comment-reply-js'></script>
+	<script type='text/javascript' src='public/wp-includes/js/comment-reply.min.js%3Fver=5.8.2' id='comment-reply-js'></script>
 	<script type='text/javascript'
-		src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js%3Fver=6.6.0'
+		src='public/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js%3Fver=6.6.0'
 		id='wpb_composer_front_js-js'></script>
 	<script type='text/javascript' id='qode-like-js-extra'>
 		/* <![CDATA[ */
 		var qodeLike = { "ajaxurl": "https:\/\/orfalandcoco.com\/wp-admin\/admin-ajax.php" };
 /* ]]> */
 	</script>
-	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/qode-like.min.js%3Fver=5.8.2'
+	<script type='text/javascript' src='public/wp-content/themes/bridge/js/plugins/qode-like.min.js%3Fver=5.8.2'
 		id='qode-like-js'></script>
-	<script type='text/javascript' src='wp-includes/js/wp-embed.min.js%3Fver=5.8.2' id='wp-embed-js'></script>
+	<script type='text/javascript' src='public/wp-includes/js/wp-embed.min.js%3Fver=5.8.2' id='wp-embed-js'></script>
 	<script type='text/javascript'
-		src='wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js%3Fver=6.6.0'
+		src='public/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js%3Fver=6.6.0'
 		id='vc_waypoints-js'></script>
 </body>
 
