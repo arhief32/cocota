@@ -9,24 +9,24 @@
 
 
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
-	<link rel="pingback" href="https://orfalandcoco.com/xmlrpc.php" />
+	<link rel="pingback" href="{{ env('APP_URL') }}/xmlrpc.php" />
 
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v17.2 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Orfaland Coco</title>
+	<title>Wing Coco</title>
 	<link rel="canonical" href="index.html" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Orfaland Coco" />
-	<meta property="og:url" content="https://orfalandcoco.com/" />
-	<meta property="og:site_name" content="PT ORFALAND UNIVERSAL INDONESIA" />
+	<meta property="og:title" content="Wing Coco" />
+	<meta property="og:url" content="https://wingcoco.com/" />
+	<meta property="og:site_name" content="WING COCO" />
 	<meta property="article:modified_time" content="2021-11-20T08:14:15+00:00" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="Est. reading time" />
 	<meta name="twitter:data1" content="8 minutes" />
 	<script type="application/ld+json"
-		class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://orfalandcoco.com/#website","url":"https://orfalandcoco.com/","name":"PT ORFALAND UNIVERSAL INDONESIA","description":"Official Website","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://orfalandcoco.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://orfalandcoco.com/#webpage","url":"https://orfalandcoco.com/","name":"Orfaland Coco","isPartOf":{"@id":"https://orfalandcoco.com/#website"},"datePublished":"2016-07-11T14:27:40+00:00","dateModified":"2021-11-20T08:14:15+00:00","breadcrumb":{"@id":"https://orfalandcoco.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://orfalandcoco.com/"]}]},{"@type":"BreadcrumbList","@id":"https://orfalandcoco.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
+		class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://wingcoco.com/#website","url":"https://wingcoco.com/","name":"PT WING COCO","description":"Official Website","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://wingcoco.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://wingcoco.com/#webpage","url":"https://wingcoco.com/","name":"Wing Coco","isPartOf":{"@id":"https://wingcoco.com/#website"},"datePublished":"2016-07-11T14:27:40+00:00","dateModified":"2021-11-20T08:14:15+00:00","breadcrumb":{"@id":"https://wingcoco.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://wingcoco.com/"]}]},{"@type":"BreadcrumbList","@id":"https://wingcoco.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -34,12 +34,12 @@
 	<link rel='dns-prefetch' href='https://www.googletagmanager.com/' />
 	<link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
 	<link rel='dns-prefetch' href='https://s.w.org/' />
-	<link rel="alternate" type="application/rss+xml" title="PT ORFALAND UNIVERSAL INDONESIA &raquo; Feed"
+	<link rel="alternate" type="application/rss+xml" title="PT WING COCO &raquo; Feed"
 		href="feed/index.html" />
-	<link rel="alternate" type="application/rss+xml" title="PT ORFALAND UNIVERSAL INDONESIA &raquo; Comments Feed"
+	<link rel="alternate" type="application/rss+xml" title="PT WING COCO &raquo; Comments Feed"
 		href="comments/feed/index.html" />
 	<script type="text/javascript">
-		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/orfalandcoco.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2" } };
+		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/wingcoco.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2" } };
 		!function (e, a, t) { var n, r, o, i = a.createElement("canvas"), p = i.getContext && i.getContext("2d"); function s(e, t) { var a = String.fromCharCode; p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, e), 0, 0); e = i.toDataURL(); return p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, t), 0, 0), e === i.toDataURL() } function c(e) { var t = a.createElement("script"); t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t) } for (o = Array("flag", "emoji"), t.supports = { everything: !0, everythingExceptFlag: !0 }, r = 0; r < o.length; r++)t.supports[o[r]] = function (e) { if (!p || !p.fillText) return !1; switch (p.textBaseline = "top", p.font = "600 32px Arial", e) { case "flag": return s([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039]) ? !1 : !s([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) && !s([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]); case "emoji": return !s([10084, 65039, 8205, 55357, 56613], [10084, 65039, 8203, 55357, 56613]) }return !1 }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]); t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function () { t.DOMReady = !0 }, t.supports.everything || (n = function () { t.readyCallback() }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function () { "complete" === a.readyState && t.readyCallback() })), (n = t.source || {}).concatemoji ? c(n.concatemoji) : n.wpemoji && n.twemoji && (c(n.twemoji), c(n.wpemoji))) }(window, document, window._wpemojiSettings);
 	</script>
 	<style type="text/css">
@@ -245,7 +245,7 @@
 		id='google_gtagjs-js' async></script>
 	<script type='text/javascript' id='google_gtagjs-js-after'>
 		window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); }
-		gtag('set', 'linker', { "domains": ["orfalandcoco.com"] });
+		gtag('set', 'linker', { "domains": ["wingcoco.com"] });
 		gtag("js", new Date());
 		gtag("set", "developer_id.dZTNiMT", true);
 		gtag("config", "UA-213359775-1", { "anonymize_ip": true });
@@ -263,9 +263,9 @@
 	<meta name="generator" content="WordPress 5.8.2" />
 	<link rel='shortlink' href='index.html' />
 	<link rel="alternate" type="application/json+oembed"
-		href="wp-json/oembed/1.0/embed%3Furl=https:%252F%252Forfalandcoco.com%252F" />
+		href="wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fwingcoco.com%252F" />
 	<link rel="alternate" type="text/xml+oembed"
-		href="wp-json/oembed/1.0/embed%3Furl=https:%252F%252Forfalandcoco.com%252F&amp;format=xml" />
+		href="wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fwingcoco.com%252F&amp;format=xml" />
 	<meta name="generator" content="Site Kit by Google 1.41.0" />
 	<style type="text/css">
 		.recentcomments a {
@@ -281,7 +281,7 @@
 	<link rel="icon" href="wp-content/uploads/2021/10/cropped-logo-192x192.png" sizes="192x192" />
 	<link rel="apple-touch-icon" href="wp-content/uploads/2021/10/cropped-logo-180x180.png" />
 	<meta name="msapplication-TileImage"
-		content="https://orfalandcoco.com/wp-content/uploads/2021/10/cropped-logo-270x270.png" />
+		content="https://wingcoco.com/wp-content/uploads/2021/10/cropped-logo-270x270.png" />
 	<script type="text/javascript">function setREVStartSize(e) {
 			//window.requestAnimationFrame(function() {				 
 			window.RSIW = window.RSIW === undefined ? window.innerWidth : window.RSIW;
@@ -565,37 +565,37 @@
 								<ul id="menu-main-menu" class="">
 									<li id="nav-menu-item-321"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-314 current_page_item anchor-item  narrow">
-										<a href="index.html#home" class=" current "><i
+										<a href="#home" class=" current "><i
 												class="menu_icon blank fa"></i><span>Home</span><span
 												class="plus"></span></a></li>
 									<li id="nav-menu-item-341"
 										class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a
-											href="index.html#tentang" class=""><i
+											href="#tentang" class=""><i
 												class="menu_icon blank fa"></i><span>About</span><span
 												class="plus"></span></a></li>
 									<li id="nav-menu-item-342"
 										class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a
-											href="index.html#fitur" class=""><i
+											href="#fitur" class=""><i
 												class="menu_icon blank fa"></i><span>Feature</span><span
 												class="plus"></span></a></li>
 									<li id="nav-menu-item-343"
 										class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a
-											href="index.html#produk" class=""><i
+											href="#produk" class=""><i
 												class="menu_icon blank fa"></i><span>Product</span><span
 												class="plus"></span></a></li>
 									<li id="nav-menu-item-344"
 										class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a
-											href="index.html#tim" class=""><i
+											href="#tim" class=""><i
 												class="menu_icon blank fa"></i><span>Team</span><span
 												class="plus"></span></a></li>
 									<li id="nav-menu-item-365"
 										class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a
-											href="index.html#galeri" class=""><i
+											href="#galeri" class=""><i
 												class="menu_icon blank fa"></i><span>Gallery</span><span
 												class="plus"></span></a></li>
 									<li id="nav-menu-item-345"
 										class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a
-											href="index.html#kontak" class=""><i
+											href="#kontak" class=""><i
 												class="menu_icon blank fa"></i><span>Contact</span><span
 												class="plus"></span></a></li>
 								</ul>
@@ -604,37 +604,37 @@
 								<ul id="menu-main-menu-1" class="">
 									<li id="mobile-menu-item-321"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-314 current_page_item ">
-										<a href="index.html#home" class=" current "><span>Home</span></a><span
+										<a href="#home" class=" current "><span>Home</span></a><span
 											class="mobile_arrow"><i class="fa fa-angle-right"></i><i
 												class="fa fa-angle-down"></i></span></li>
 									<li id="mobile-menu-item-341"
 										class="menu-item menu-item-type-custom menu-item-object-custom "><a
-											href="index.html#tentang" class=""><span>About</span></a><span
+											href="#tentang" class=""><span>About</span></a><span
 											class="mobile_arrow"><i class="fa fa-angle-right"></i><i
 												class="fa fa-angle-down"></i></span></li>
 									<li id="mobile-menu-item-342"
 										class="menu-item menu-item-type-custom menu-item-object-custom "><a
-											href="index.html#fitur" class=""><span>Feature</span></a><span
+											href="#fitur" class=""><span>Feature</span></a><span
 											class="mobile_arrow"><i class="fa fa-angle-right"></i><i
 												class="fa fa-angle-down"></i></span></li>
 									<li id="mobile-menu-item-343"
 										class="menu-item menu-item-type-custom menu-item-object-custom "><a
-											href="index.html#produk" class=""><span>Product</span></a><span
+											href="#produk" class=""><span>Product</span></a><span
 											class="mobile_arrow"><i class="fa fa-angle-right"></i><i
 												class="fa fa-angle-down"></i></span></li>
 									<li id="mobile-menu-item-344"
 										class="menu-item menu-item-type-custom menu-item-object-custom "><a
-											href="index.html#tim" class=""><span>Team</span></a><span
+											href="#tim" class=""><span>Team</span></a><span
 											class="mobile_arrow"><i class="fa fa-angle-right"></i><i
 												class="fa fa-angle-down"></i></span></li>
 									<li id="mobile-menu-item-365"
 										class="menu-item menu-item-type-custom menu-item-object-custom "><a
-											href="index.html#galeri" class=""><span>Gallery</span></a><span
+											href="#galeri" class=""><span>Gallery</span></a><span
 											class="mobile_arrow"><i class="fa fa-angle-right"></i><i
 												class="fa fa-angle-down"></i></span></li>
 									<li id="mobile-menu-item-345"
 										class="menu-item menu-item-type-custom menu-item-object-custom "><a
-											href="index.html#kontak" class=""><span>Contact</span></a><span
+											href="#kontak" class=""><span>Contact</span></a><span
 											class="mobile_arrow"><i class="fa fa-angle-right"></i><i
 												class="fa fa-angle-down"></i></span></li>
 								</ul>
@@ -680,7 +680,7 @@
 
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<p>Orfaland Coco is a project of PT Orfaland Universal Indonesia
+														<p>Wing Coco is a project of PT WING COCO
 															(Pvt. Ltd), which founded based on the awareness of high
 															potential of natural resources around us, and the desire of
 															willingness to contribute for the welfare of our local
@@ -700,7 +700,7 @@
 															class="wpb_column vc_column_container vc_col-sm-3 vc_col-xs-3">
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper"><a itemprop="url"
-																		href="index.html#tentang" target="_self"
+																		href="#tentang" target="_self"
 																		class="qbutton  small default" style="">About
 																		Us</a></div>
 															</div>
@@ -709,7 +709,7 @@
 															class="wpb_column vc_column_container vc_col-sm-3 vc_col-xs-3">
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper"><a itemprop="url"
-																		href="index.html#produk" target="_self"
+																		href="#produk" target="_self"
 																		class="qbutton  small default" style="">Our
 																		Product</a></div>
 															</div>
@@ -2644,8 +2644,8 @@
 
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<p><span style="color: #ffffff;">Orfaland Coco is a project of
-																PT Orfaland Universal Indonesia (Pvt. Ltd), which
+														<p><span style="color: #ffffff;">Wing Coco is a project of
+																PT WING COCO (Pvt. Ltd), which
 																founded based on the awareness of high potential of
 																natural resources around us, and the desire of
 																willingness to contribute for the welfare of our local
@@ -2692,14 +2692,14 @@
 
 																	<span class='q_social_icon_holder circle_social'><a
 																			itemprop='url'
-																			href='https://instagram.com/orfalandcoco'
+																			href='https://instagram.com/wingcoco'
 																			target='_self'><span class='fa-stack fa-lg'
 																				style=''><i
 																					class="qode_icon_font_awesome fa fa-instagram "
 																					style=""></i></span></a></span><span
 																		class='q_social_icon_holder circle_social'><a
 																			itemprop='url'
-																			href='https://www.facebook.com/orfalandcoco'
+																			href='https://www.facebook.com/wingcoco'
 																			target='_self'><span class='fa-stack fa-lg'
 																				style=''><i
 																					class="qode_icon_font_awesome fa fa-facebook "
@@ -2771,7 +2771,7 @@
 													<div class="icon_text_holder" style="">
 														<div class="icon_text_inner" style="">
 															<h5 class="icon_title" style=""></h5>
-															<p style='color: #ffffff'>info@orfalandcoco.com</p>
+															<p style='color: #ffffff'>info@wingcoco.com</p>
 														</div>
 													</div>
 												</div>
@@ -2919,13 +2919,13 @@
 
 											<span class='q_social_icon_holder normal_social' data-color=#ffffff
 												data-hover-color=#97c240><a itemprop='url'
-													href='https://www.facebook.com/Orfalandcoco/' target='_blank'
+													href='https://www.facebook.com/wingcoco/' target='_blank'
 													rel="noopener"><span aria-hidden="true"
 														class="qode_icon_font_elegant social_facebook  simple_social"
 														style="color: #ffffff;margin: 0 26 26pxpx;font-size: 22px;"></span></a></span><span
 												class='q_social_icon_holder normal_social' data-color=#ffffff
 												data-hover-color=#97c240><a itemprop='url'
-													href='https://www.instagram.com/orfalandcoco/' target='_blank'
+													href='https://www.instagram.com/wingcoco/' target='_blank'
 													rel="noopener"><span aria-hidden="true"
 														class="qode_icon_font_elegant social_instagram  simple_social"
 														style="color: #ffffff;margin: 0 26px 26px;font-size: 22px;"></span></a></span>
@@ -2944,8 +2944,8 @@
 					<div class="footer_bottom_holder">
 						<div style="background-color: #ffffff;height: 3px" class="footer_bottom_border "></div>
 						<div class="footer_bottom">
-							<div class="textwidget">Supported By <a href="https://www.niagaweb.co.id/"
-									rel="nofollow noopener" target="_blank">Niagaweb</a>
+							<div class="textwidget">Supported By <a href="https://wingcoco.com/"
+									rel="nofollow noopener" target="_blank">Wing Coco</a>
 							</div>
 						</div>
 					</div>
@@ -3018,7 +3018,7 @@
 		id='wp-polyfill-js'></script>
 	<script type='text/javascript' id='contact-form-7-js-extra'>
 		/* <![CDATA[ */
-		var wpcf7 = { "api": { "root": "https:\/\/orfalandcoco.com\/wp-json\/", "namespace": "contact-form-7\/v1" } };
+		var wpcf7 = { "api": { "root": "https:\/\/wingcoco.com\/wp-json\/", "namespace": "contact-form-7\/v1" } };
 /* ]]> */
 	</script>
 	<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/index.js%3Fver=5.4.2'
@@ -3231,7 +3231,7 @@
 		id='bridge-default-dynamic-js'></script>
 	<script type='text/javascript' id='bridge-default-js-extra'>
 		/* <![CDATA[ */
-		var QodeAdminAjax = { "ajaxurl": "https:\/\/orfalandcoco.com\/wp-admin\/admin-ajax.php" };
+		var QodeAdminAjax = { "ajaxurl": "https:\/\/wingcoco.com\/wp-admin\/admin-ajax.php" };
 		var qodeGlobalVars = { "vars": { "qodeAddingToCartLabel": "Adding to Cart...", "page_scroll_amount_for_sticky": "" } };
 /* ]]> */
 	</script>
@@ -3243,7 +3243,7 @@
 		id='wpb_composer_front_js-js'></script>
 	<script type='text/javascript' id='qode-like-js-extra'>
 		/* <![CDATA[ */
-		var qodeLike = { "ajaxurl": "https:\/\/orfalandcoco.com\/wp-admin\/admin-ajax.php" };
+		var qodeLike = { "ajaxurl": "https:\/\/wingcoco.com\/wp-admin\/admin-ajax.php" };
 /* ]]> */
 	</script>
 	<script type='text/javascript' src='wp-content/themes/bridge/js/plugins/qode-like.min.js%3Fver=5.8.2'
