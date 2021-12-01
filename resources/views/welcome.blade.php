@@ -587,11 +587,11 @@
 								<div class="logo_wrapper">
 									<div class="q_logo">
 										<a itemprop="url" href="index.html">
-											<img itemprop="image" class="normal" src="wp-content/uploads/2021/10/Untitled-1.png" alt="Logo">
-											<img itemprop="image" class="light" src="wp-content/uploads/2021/09/Untitled-removebg-preview-1.png" alt="Logo" />
-											<img itemprop="image" class="dark" src="wp-content/uploads/2021/09/Untitled-removebg-preview-1.png" alt="Logo" />
-											<img itemprop="image" class="sticky" src="wp-content/uploads/2021/09/putih.png" alt="Logo" />
-											<img itemprop="image" class="mobile" src="wp-content/uploads/2021/09/Untitled-removebg-preview-1.png" alt="Logo" />
+											<img itemprop="image" class="normal" src="wp-content/uploads/2021/09/wingcoco-logo.png" alt="Logo">
+											<img itemprop="image" class="light" src="wp-content/uploads/2021/09/wingcoco-logo.png" alt="Logo" />
+											<img itemprop="image" class="dark" src="wp-content/uploads/2021/09/wingcoco-logo.png" alt="Logo" />
+											<img itemprop="image" class="sticky" src="wp-content/uploads/2021/09/wingcoco-logo.png" alt="Logo" />
+											<img itemprop="image" class="mobile" src="wp-content/uploads/2021/09/wingcoco-logo.png" alt="Logo" />
 										</a>
 									</div>
 								</div>
@@ -654,9 +654,7 @@
 
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<h3><span style="color: #527b3c;"><strong>One stop solution for
-																	the finest coconut product from
-																	Indonesia</strong></span></h3>
+														<h3><span style="color: #527b3c;"><strong>Where you can find the best coconut products from Indonesia</strong></span></h3>
 
 													</div>
 												</div>
@@ -667,11 +665,7 @@
 
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<p>Wing Coco is a project of PT WING COCO
-															(Pvt. Ltd), which founded based on the awareness of high
-															potential of natural resources around us, and the desire of
-															willingness to contribute for the welfare of our local
-															farmers.</p>
+														<p>Wing Coco is a provider of coconut products from Indonesia and part of the PT Wing Nusa Indonesia company. We will provide the best and most reliable quality coconut products. If you have a need for coconut products, it’s our pleasure to contact us.</p>
 
 													</div>
 												</div>
@@ -783,16 +777,7 @@
 
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<p><span style="color: #000000;">Seeing our region&#8217;s
-																enormous potential, we chose to concentrate on coconut
-																goods and all of their derivatives, and to finally bring
-																these commodities into the next level. We exist to
-																increase the demand for the quality of coconut products
-																at reasonable prices for farmers and presents the entire
-																world. We are strongly believe, with the increased
-																demand and empowerment support from us, the welfare of
-																local farmers will increase and improving, along with
-																the quality of their products.</span></p>
+														<p><span style="color: #000000;">We are from a small island in eastern Indonesia with a lot of potential, one of them is coconut. Initially, we only sent coconut products between cities, but seeing the potential of our area and our farmers' willingness to participate in expanding to send these products out, we decided to expand to send these products out. Furthermore, this country has the potential to indirectly increase the welfare of farmers as well as their own quality.</span></p>
 
 													</div>
 												</div>
@@ -829,14 +814,7 @@
 																					<div class="icon_text_inner" style="">
 																						<h4 class="icon_title" style="">
 																							INTEGRITY</h4>
-																						<p style=''>For us, integrity is
-																							the quality of having a
-																							strong ethical principle,
-																							which followed at all times.
-																							Honesty and trust are at the
-																							core of integrity.
-																							Consistency in integrity is
-																							the key of our business.</p>
+																						<p style=''>We place a great value on honesty, which we must uphold because it is the most valuable asset in building connections with one another.</p>
 																					</div>
 																				</div>
 																			</div>
@@ -850,16 +828,7 @@
 																					<div class="icon_text_inner" style="">
 																						<h4 class="icon_title" style="">
 																							QUALITY</h4>
-																						<p style=''>In our mutual
-																							thoughts, quality is not
-																							just about offering a
-																							product or service that
-																							exceeds the standard, but
-																							it’s also about the
-																							reputation we gain for
-																							consistently delivering a
-																							customer experience, that is
-																							“above and beyond”.</p>
+																						<p style=''>Quality encompasses not only the product but also the individual, the environment, and the workforce, all of which must fulfill the expectations of our consumers and investors.</p>
 																					</div>
 																				</div>
 																			</div>
@@ -875,13 +844,7 @@
 																					<div class="icon_text_inner" style="">
 																						<h4 class="icon_title" style="">
 																							COMMITMENT</h4>
-																						<p style=''>Commitment is our
-																							promise or firm decision to
-																							do our business, where we
-																							will continue to provide the
-																							best to our customers as
-																							long<br />
-																							as possible.</p>
+																						<p style=''>One of the things that must be held firmly in order to achieve this trust, which we hold in order to deliver the finest service possible to our investors and consumers, is commitment.</p>
 																					</div>
 																				</div>
 																			</div>
@@ -895,15 +858,7 @@
 																					<div class="icon_text_inner" style="">
 																						<h4 class="icon_title" style="">
 																							INNOVATION</h4>
-																						<p style=''>Innovation means the
-																							creation, development and
-																							implementation of new
-																							products, processes or
-																							services with the aim of
-																							increasing efficiency and
-																							effectiveness to win the
-																							competition and gain
-																							customers satisfaction.</p>
+																						<p style=''>Design, action, and development, as well as the production of new things, not only in products but also in services, and the ability to compete globally, are all examples of innovation.</p>
 																					</div>
 																				</div>
 																			</div>
@@ -947,8 +902,7 @@
 																					<div class="wpb_wrapper">
 																						<div class="wpb_text_column wpb_content_element ">
 																							<div class="wpb_wrapper">
-																								<h3><strong>Desiccated
-																										Coconut</strong>
+																								<h3><strong>Copra</strong>
 																								</h3>
 
 																							</div>
@@ -960,48 +914,7 @@
 
 																						<div class="wpb_text_column wpb_content_element ">
 																							<div class="wpb_wrapper">
-																								<p>Desiccated Coconut is
-																									obtained by drying
-																									the granulated or
-																									shredded white meat
-																									of the fresh mature
-																									coconut kernel. It
-																									should be suitably
-																									processed for human
-																									consumption.</p>
-																								<p>Desiccated Coconut
-																									using the aqueous
-																									process by pressing
-																									the meat to obtain
-																									coconut cream before
-																									drying shall be
-																									classified as low
-																									fat desiccated
-																									coconut.</p>
-																								<p>Desiccated coconut is
-																									classified for the
-																									purposes of
-																									commercialization
-																									into three types
-																									according to the
-																									granulometry of the
-																									product as follows:
-																								</p>
-																								<ul>
-																									<li><strong>Extra-fine
-																											desiccated
-																											coconut</strong>
-																									</li>
-																									<li><strong>Fine
-																											desiccated
-																											coconut</strong>
-																									</li>
-																									<li><strong>Medium
-																											desiccated
-																											coconut</strong>
-																									</li>
-																								</ul>
-
+																								<p>The dried coconut kernels from which coconut oil is extracted are referred to as copra. Before the oil, also known as copra oil, is pressed out, the coconut kernels are traditionally sun-dried, especially for export.</p>
 																							</div>
 																						</div>
 																						<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner">
@@ -1019,88 +932,7 @@
 																							<div class="wpb_wrapper">
 
 																								<div class="vc_single_image-wrapper   vc_box_border_grey">
-																									<img width="400" height="400" src="wp-content/uploads/2021/11/Desiccated-1.png" class="vc_single_image-img attachment-large" alt="" loading="lazy" srcset="wp-content/uploads/2021/11/Desiccated-1.png 400w, wp-content/uploads/2021/11/Desiccated-1-300x300.png 300w, wp-content/uploads/2021/11/Desiccated-1-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" />
-																								</div>
-																							</div>
-																						</div>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-																<div class="qode_content_slider_item">
-																	<div class="vc_row wpb_row section vc_row-fluid vc_inner  reverse_order" style=' padding-top:40px; padding-bottom:40px; text-align:left;'>
-																		<div class=" full_section_inner clearfix" style='padding: 0% 5%'>
-																			<div class="wpb_column vc_column_container vc_col-sm-6">
-																				<div class="vc_column-inner">
-																					<div class="wpb_wrapper">
-																						<div class="wpb_text_column wpb_content_element ">
-																							<div class="wpb_wrapper">
-																								<h3><strong>Coconut Milk
-																										and
-																										Cream</strong>
-																								</h3>
-
-																							</div>
-																						</div>
-																						<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner">
-																								<span class="empty_space_image"></span>
-																							</span></div>
-
-
-																						<div class="wpb_text_column wpb_content_element ">
-																							<div class="wpb_wrapper">
-																								<p>The difference
-																									between the two is
-																									similar to the
-																									difference between
-																									dairy milk and
-																									cream: They&#8217;re
-																									made from the same
-																									ingredients
-																									(coconut, water, and
-																									sometimes guar gum
-																									for stabilizing),
-																									but coconut cream
-																									has a higher fat
-																									content than coconut
-																									milk (less water,
-																									more coconut),
-																									therefore it&#8217;s
-																									thicker</p>
-																								<p>Coconut milk and
-																									cream are used both
-																									separately and
-																									together in curries
-																									and spicy soups to
-																									&#8216;cool&#8217;
-																									the heat of the
-																									dish. They&#8217;re
-																									also delicious in
-																									sweets such as
-																									coconut rice pudding
-																									or coconut ice
-																									cream.</p>
-
-																							</div>
-																						</div>
-																						<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner">
-																								<span class="empty_space_image"></span>
-																							</span></div>
-
-																						<a itemprop="url" href="https://https://wa.me/6281273828537" target="_self" class="qbutton  small default" style="">Contact Us<i class="qode_icon_font_awesome fa fa-whatsapp qode_button_icon_element" style=""></i></a>
-																					</div>
-																				</div>
-																			</div>
-																			<div class="wpb_column vc_column_container vc_col-sm-6">
-																				<div class="vc_column-inner">
-																					<div class="wpb_wrapper">
-																						<div class="wpb_single_image wpb_content_element vc_align_right">
-																							<div class="wpb_wrapper">
-
-																								<div class="vc_single_image-wrapper   vc_box_border_grey">
-																									<img width="400" height="400" src="wp-content/uploads/2021/11/Coconut-Cream-1.png" class="vc_single_image-img attachment-large" alt="" loading="lazy" srcset="wp-content/uploads/2021/11/Coconut-Cream-1.png 400w, wp-content/uploads/2021/11/Coconut-Cream-1-300x300.png 300w, wp-content/uploads/2021/11/Coconut-Cream-1-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" />
+																									<img width="400" height="400" src="wp-content/uploads/2021/10/Copra.png" class="vc_single_image-img attachment-large" alt="" loading="lazy" srcset="wp-content/uploads/2021/10/Copra.png 400w, wp-content/uploads/2021/10/Copra-300x300.png 300w, wp-content/uploads/2021/10/Copra-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" />
 																								</div>
 																							</div>
 																						</div>
@@ -1183,7 +1015,8 @@
 																					<div class="wpb_wrapper">
 																						<div class="wpb_text_column wpb_content_element ">
 																							<div class="wpb_wrapper">
-																								<h3><strong>Copra</strong>
+																								<h3><strong>Dehusked
+																										Coconut</strong>
 																								</h3>
 
 																							</div>
@@ -1195,26 +1028,7 @@
 
 																						<div class="wpb_text_column wpb_content_element ">
 																							<div class="wpb_wrapper">
-																								<p>Copra is the
-																									desiccated flesh of
-																									carefully selected
-																									fresh coconuts. The
-																									selected ripe
-																									coconuts split into
-																									two, continued by
-																									drying them under
-																									the sun to detach
-																									them from their
-																									shells, arranged on
-																									special shelves for
-																									the final drying
-																									process afterward.
-																									Until lastly packed
-																									and ready to be
-																									produced as
-																									materials for
-																									various advanced
-																									products.</p>
+																								<p>Dehusking refers to the process of removing the husk from a coconut. Dehusking by hand is a time-consuming and challenging operation.</p>
 
 																							</div>
 																						</div>
@@ -1233,7 +1047,56 @@
 																							<div class="wpb_wrapper">
 
 																								<div class="vc_single_image-wrapper   vc_box_border_grey">
-																									<img width="400" height="400" src="wp-content/uploads/2021/10/Copra.png" class="vc_single_image-img attachment-large" alt="" loading="lazy" srcset="wp-content/uploads/2021/10/Copra.png 400w, wp-content/uploads/2021/10/Copra-300x300.png 300w, wp-content/uploads/2021/10/Copra-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" />
+																									<img width="400" height="400" src="wp-content/uploads/2021/11/Desiccated-1.png" class="vc_single_image-img attachment-large" alt="" loading="lazy" srcset="wp-content/uploads/2021/11/Desiccated-1.png 400w, wp-content/uploads/2021/11/Desiccated-1-300x300.png 300w, wp-content/uploads/2021/11/Desiccated-1-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" />
+																								</div>
+																							</div>
+																						</div>
+																					</div>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+																<div class="qode_content_slider_item">
+																	<div class="vc_row wpb_row section vc_row-fluid vc_inner  reverse_order" style=' padding-top:40px; padding-bottom:40px; text-align:left;'>
+																		<div class=" full_section_inner clearfix" style='padding: 0% 5%'>
+																			<div class="wpb_column vc_column_container vc_col-sm-6">
+																				<div class="vc_column-inner">
+																					<div class="wpb_wrapper">
+																						<div class="wpb_text_column wpb_content_element ">
+																							<div class="wpb_wrapper">
+																								<h3><strong>Husked Coconut</strong>
+																								</h3>
+
+																							</div>
+																						</div>
+																						<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner">
+																								<span class="empty_space_image"></span>
+																							</span></div>
+
+
+																						<div class="wpb_text_column wpb_content_element ">
+																							<div class="wpb_wrapper">
+																								<p>Coconut that has been peeled without removing the skin but is still in the coconut shell to ensure that the quality of the coconut supplied is preserved.</p>
+
+																							</div>
+																						</div>
+																						<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner">
+																								<span class="empty_space_image"></span>
+																							</span></div>
+
+																						<a itemprop="url" href="https://https://wa.me/6281273828537" target="_self" class="qbutton  small default" style="">Contact Us<i class="qode_icon_font_awesome fa fa-whatsapp qode_button_icon_element" style=""></i></a>
+																					</div>
+																				</div>
+																			</div>
+																			<div class="wpb_column vc_column_container vc_col-sm-6">
+																				<div class="vc_column-inner">
+																					<div class="wpb_wrapper">
+																						<div class="wpb_single_image wpb_content_element vc_align_right">
+																							<div class="wpb_wrapper">
+
+																								<div class="vc_single_image-wrapper   vc_box_border_grey">
+																									<img width="400" height="400" src="wp-content/uploads/2021/11/Coconut-Cream-1.png" class="vc_single_image-img attachment-large" alt="" loading="lazy" srcset="wp-content/uploads/2021/11/Coconut-Cream-1.png 400w, wp-content/uploads/2021/11/Coconut-Cream-1-300x300.png 300w, wp-content/uploads/2021/11/Coconut-Cream-1-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" />
 																								</div>
 																							</div>
 																						</div>
@@ -1251,9 +1114,7 @@
 																					<div class="wpb_wrapper">
 																						<div class="wpb_text_column wpb_content_element ">
 																							<div class="wpb_wrapper">
-																								<h3><strong>Crude
-																										Coconut Oil
-																										(CCO)</strong>
+																								<h3><strong>Charcoal</strong>
 																								</h3>
 
 																							</div>
@@ -1265,19 +1126,7 @@
 
 																						<div class="wpb_text_column wpb_content_element ">
 																							<div class="wpb_wrapper">
-																								<p>Crude Coconut Oil is
-																									the raw coconut oil
-																									made of Copra
-																									extraction; these
-																									mature dried coconut
-																									flesh must be
-																									further processed to
-																									be applicable for
-																									usage in the food,
-																									soap, cosmetic and
-																									oleochemical
-																									industries.</p>
-
+																								<p>Coconut shell charcoal is a kind of charcoal manufactured from the shell of a coconut. Because aged coconut shells are denser and hold less water than new coconut shells, they must be utilized to make charcoal. Coconut shells may be used as the raw material for charcoal briquettes in addition to being burned directly.</p>
 																							</div>
 																						</div>
 																						<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner">
@@ -1295,243 +1144,7 @@
 																							<div class="wpb_wrapper">
 
 																								<div class="vc_single_image-wrapper   vc_box_border_grey">
-																									<img width="300" height="300" src="wp-content/uploads/2021/10/Cno-300x300.png" class="vc_single_image-img attachment-medium" alt="" loading="lazy" srcset="wp-content/uploads/2021/10/Cno-300x300.png 300w, wp-content/uploads/2021/10/Cno-150x150.png 150w, wp-content/uploads/2021/10/Cno.png 400w" sizes="(max-width: 300px) 100vw, 300px" />
-																								</div>
-																							</div>
-																						</div>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-																<div class="qode_content_slider_item">
-																	<div class="vc_row wpb_row section vc_row-fluid vc_inner  reverse_order" style=' padding-top:40px; padding-bottom:40px; text-align:left;'>
-																		<div class=" full_section_inner clearfix" style='padding: 0% 5%'>
-																			<div class="wpb_column vc_column_container vc_col-sm-6">
-																				<div class="vc_column-inner">
-																					<div class="wpb_wrapper">
-																						<div class="wpb_text_column wpb_content_element ">
-																							<div class="wpb_wrapper">
-																								<h3><strong>RBD Coconut
-																										Oil (RBD
-																										CNO)</strong>
-																								</h3>
-
-																							</div>
-																						</div>
-																						<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner">
-																								<span class="empty_space_image"></span>
-																							</span></div>
-
-
-																						<div class="wpb_text_column wpb_content_element ">
-																							<div class="wpb_wrapper">
-																								<p>Is the refined
-																									version of Crude
-																									Coconut Oil that is
-																									suitable for
-																									consumption. RBD CNO
-																									is a bright yellow
-																									liquid and is
-																									semi-solid under
-																									room temperature.
-																									These kinds of
-																									coconut oil are used
-																									for food processing
-																									and in the
-																									oleochemical
-																									industries. CNO is
-																									relatively more
-																									resistant towards
-																									high temperatures,
-																									therefore lasts
-																									longer, and is hard
-																									to be blackened
-																									during the cooking
-																									process.</p>
-
-																							</div>
-																						</div>
-																						<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner">
-																								<span class="empty_space_image"></span>
-																							</span></div>
-
-																						<a itemprop="url" href="https://https://wa.me/6281273828537" target="_self" class="qbutton  small default" style="">Contact Us<i class="qode_icon_font_awesome fa fa-whatsapp qode_button_icon_element" style=""></i></a>
-																					</div>
-																				</div>
-																			</div>
-																			<div class="wpb_column vc_column_container vc_col-sm-6">
-																				<div class="vc_column-inner">
-																					<div class="wpb_wrapper">
-																						<div class="wpb_single_image wpb_content_element vc_align_right">
-																							<div class="wpb_wrapper">
-
-																								<div class="vc_single_image-wrapper   vc_box_border_grey">
-																									<img width="400" height="400" src="wp-content/uploads/2021/10/RBD-Cno.png" class="vc_single_image-img attachment-large" alt="" loading="lazy" srcset="wp-content/uploads/2021/10/RBD-Cno.png 400w, wp-content/uploads/2021/10/RBD-Cno-300x300.png 300w, wp-content/uploads/2021/10/RBD-Cno-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" />
-																								</div>
-																							</div>
-																						</div>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-																<div class="qode_content_slider_item">
-																	<div class="vc_row wpb_row section vc_row-fluid vc_inner  reverse_order" style=' padding-top:40px; padding-bottom:40px; text-align:left;'>
-																		<div class=" full_section_inner clearfix" style='padding: 0% 5%'>
-																			<div class="wpb_column vc_column_container vc_col-sm-6">
-																				<div class="vc_column-inner">
-																					<div class="wpb_wrapper">
-																						<div class="wpb_text_column wpb_content_element ">
-																							<div class="wpb_wrapper">
-																								<h3><strong>Virgin
-																										Coconut Oil
-																										(VCO)</strong>
-																								</h3>
-
-																							</div>
-																						</div>
-																						<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner">
-																								<span class="empty_space_image"></span>
-																							</span></div>
-
-
-																						<div class="wpb_text_column wpb_content_element ">
-																							<div class="wpb_wrapper">
-																								<p>Is an oil that is
-																									extracted purely
-																									from fresh coconut
-																									milk, processed
-																									through
-																									significantly
-																									different stages
-																									from the other
-																									coconut oil, also
-																									smelled of pure
-																									fresh coconut water.
-																									Although mainly the
-																									content of coconut
-																									oil has no
-																									difference compared
-																									to VCO, this product
-																									has more advantages,
-																									one of which is
-																									vitamin E which
-																									works best for
-																									facial and skin
-																									care. VCO is also
-																									suitable for
-																									consumption;
-																									noticing this
-																									product is free of
-																									trans fat and not
-																									hydrogenated.</p>
-
-																							</div>
-																						</div>
-																						<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner">
-																								<span class="empty_space_image"></span>
-																							</span></div>
-
-																						<a itemprop="url" href="https://https://wa.me/6281273828537" target="_self" class="qbutton  small default" style="">Contact Us<i class="qode_icon_font_awesome fa fa-whatsapp qode_button_icon_element" style=""></i></a>
-																					</div>
-																				</div>
-																			</div>
-																			<div class="wpb_column vc_column_container vc_col-sm-6">
-																				<div class="vc_column-inner">
-																					<div class="wpb_wrapper">
-																						<div class="wpb_single_image wpb_content_element vc_align_right">
-																							<div class="wpb_wrapper">
-
-																								<div class="vc_single_image-wrapper   vc_box_border_grey">
-																									<img width="400" height="400" src="wp-content/uploads/2021/10/Virgin-Coconut-Oil1.png" class="vc_single_image-img attachment-large" alt="" loading="lazy" srcset="wp-content/uploads/2021/10/Virgin-Coconut-Oil1.png 400w, wp-content/uploads/2021/10/Virgin-Coconut-Oil1-300x300.png 300w, wp-content/uploads/2021/10/Virgin-Coconut-Oil1-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" />
-																								</div>
-																							</div>
-																						</div>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-																<div class="qode_content_slider_item">
-																	<div class="vc_row wpb_row section vc_row-fluid vc_inner  reverse_order" style=' padding-top:40px; padding-bottom:40px; text-align:left;'>
-																		<div class=" full_section_inner clearfix" style='padding: 0% 5%'>
-																			<div class="wpb_column vc_column_container vc_col-sm-6">
-																				<div class="vc_column-inner">
-																					<div class="wpb_wrapper">
-																						<div class="wpb_text_column wpb_content_element ">
-																							<div class="wpb_wrapper">
-																								<h3><strong>Coconut
-																										Fibre</strong>
-																								</h3>
-
-																							</div>
-																						</div>
-																						<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner">
-																								<span class="empty_space_image"></span>
-																							</span></div>
-
-
-																						<div class="wpb_text_column wpb_content_element ">
-																							<div class="wpb_wrapper">
-																								<p>Coir is a natural
-																									fibre formed by the
-																									outer part of the
-																									coconut shell. The
-																									fibrous material can
-																									be seen between the
-																									hard shell, the
-																									inner part, and the
-																									outer layers of
-																									coconuts. There are
-																									two types of coconut
-																									coir that possess
-																									different usages:
-																								</p>
-																								<ul>
-																									<li>Brown Coconut
-																										Fibre Produced
-																										from ripe
-																										coconut, this
-																										fibre can be
-																										utilised as a
-																										material for
-																										upholstery,
-																										sacks, and
-																										horticulture.
-																									</li>
-																									<li>White Coconut
-																										Fibre Produced
-																										from raw
-																										coconut, one is
-																										used to make
-																										fine brushes,
-																										fishing nets,
-																										and lastly
-																										ropes.</li>
-																								</ul>
-
-																							</div>
-																						</div>
-																						<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner">
-																								<span class="empty_space_image"></span>
-																							</span></div>
-
-																						<a itemprop="url" href="https://https://wa.me/6281273828537" target="_self" class="qbutton  small default" style="">Contact Us<i class="qode_icon_font_awesome fa fa-whatsapp qode_button_icon_element" style=""></i></a>
-																					</div>
-																				</div>
-																			</div>
-																			<div class="wpb_column vc_column_container vc_col-sm-6">
-																				<div class="vc_column-inner">
-																					<div class="wpb_wrapper">
-																						<div class="wpb_single_image wpb_content_element vc_align_right">
-																							<div class="wpb_wrapper">
-
-																								<div class="vc_single_image-wrapper   vc_box_border_grey">
-																									<img width="400" height="400" src="wp-content/uploads/2021/10/Coco-Fibre.png" class="vc_single_image-img attachment-large" alt="" loading="lazy" srcset="wp-content/uploads/2021/10/Coco-Fibre.png 400w, wp-content/uploads/2021/10/Coco-Fibre-300x300.png 300w, wp-content/uploads/2021/10/Coco-Fibre-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" />
+																									<img width="300" height="300" src="wp-content/uploads/2021/10/charcoal.jpg" class="vc_single_image-img attachment-medium" alt="" loading="lazy" srcset="wp-content/uploads/2021/10/charcoal.jpg 300w, wp-content/uploads/2021/10/charcoal.jpg 150w, wp-content/uploads/2021/10/charcoal.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />
 																								</div>
 																							</div>
 																						</div>
