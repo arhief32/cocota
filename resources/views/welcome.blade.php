@@ -586,7 +586,7 @@
 								</div>
 								<div class="logo_wrapper">
 									<div class="q_logo">
-										<a itemprop="url" href="index.html">
+										<a itemprop="url" href="/">
 											<img itemprop="image" class="normal" src="wp-content/uploads/2021/09/wingcoco-logo.png" alt="Logo">
 											<img itemprop="image" class="light" src="wp-content/uploads/2021/09/wingcoco-logo.png" alt="Logo" />
 											<img itemprop="image" class="dark" src="wp-content/uploads/2021/09/wingcoco-logo.png" alt="Logo" />
